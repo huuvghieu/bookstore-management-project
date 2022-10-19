@@ -1,0 +1,158 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 25, 2022, 4:21:55 PM
+    Author     : ownhi
+*/
+/* =============================== */
+                /*HEADER*/
+/* =============================== */
+#header{
+    background-color: #002F1D;
+    height: 45px;
+    color: white;
+    font-size: 14px;
+    padding-top:  5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+#headerleft{
+    margin-top: 5px;
+    text-align: left;
+}
+
+#headerleft div{
+    display: inline-block;  
+    margin-right: 7px;
+    text-align: left;
+    margin-top: 2px;
+}
+#divphone{
+    margin-left: 150px;
+}
+#headerright{
+    text-align: right;
+}
+#headerright a{
+    margin-top: 3px;
+}
+#insta{
+    margin-right: 180px;
+}
+#headerright a{
+    color: white;
+    font-size:  25px;
+}
+
+#divphone{
+    border-right:2px solid white;
+    padding-right: 8px;
+}
+/* =============================== */
+                /*Navbar*/
+/* =============================== */
+.navbar{
+    background-color: white;
+    border: none;
+    font-family: Montserrat;
+    
+    line-height: 24px;
+    font-weight: 700;
+    font-style: normal;
+    color: #684f40;
+    font-size: 25px;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    border-right: 1px solid black;
+    background-color: #187344;
+}
+
+.navbar-right{
+    font-size: 17px;
+    text-align: center;
+}
+.carousel-inner{
+    border-bottom: 3px solid #309D4D;
+    border-top: 3px solid #309D4D;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#logout{
+    font-size: 25px;
+    border: none;
+    background-color: white;
+    padding:10px 20px; 
+    color: #33A551;
+    font-weight: bold;
+    cursor: pointer;
+}
+#logout:hover{
+    color: white;
+    background-color: #33A551;
+    text-decoration: none;
+}
+#search{
+    font-size: 25px;
+    border: 2px solid #33A551;
+    background-color: white;
+    padding:10px 20px; 
+    color: #33A551;
+    font-weight: bold;
+    cursor: pointer;
+}
+#search:hover{
+    color: white;
+    background-color: #33A551;
+    text-decoration: none;
+}
+#adminslider{
+    background-color: #201C17;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+    height: 350px; 
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+
+#adminslider h2{
+    margin-top: 120px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+/* =============================== */
+                /*CONTENT*/
+/* =============================== */
+.container{
+    margin-top: 50px;
+}
+
+table{
+    border: 3px solid green;
+}
+table th{
+    color: white;
+    background-color: #33A551;
+}
+
+
+/* =============================== */
+                /*FOOTER*/
+/* =============================== */
+.footer{
+    margin-top: 20px;
+    background-color: #002F1D;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+

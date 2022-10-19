@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 24, 2022, 7:47:15 PM
+    Author     : ownhi
+*/
+body{
+    background-color: #1ABC9C;
+    font-family: "Source Sans Pro", sans-serif;
+}
+.main-container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 5px;
+    padding-top: 40px;
+}
+.container{
+    width: 600px;
+    height: 500px;
+    border-radius: 7px;
+    box-shadow: 0 6px 12px rgba(179, 179, 179, 0.7);
+    z-index: 1;
+    overflow: hidden;
+
+}
+h1{
+    text-align: center;
+    color: green;
+    text-transform: uppercase;
+}
+form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 0px !important;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+
+}
+#reset{
+    font-size: 15px;
+    border: none;
+    background-color: white;
+    padding:10px 20px; 
+    color: #33A551;
+    font-weight: bold;
+    cursor: pointer;
+}
+#submit{
+    font-size: 15px;
+    border: none;
+    background-color: white;
+    padding:10px 20px; 
+    font-weight: bold;
+    cursor: pointer;
+}
+label{
+    font-size: 25px;
+    color: #33A551;
+    font-weight: bold;
+}
+#reset:hover{
+    color: white;
+    background-color: #33A551;
+    text-decoration: none;
+}
+a{
+    font-size: 15px;
+    padding:10px 20px; 
+    color: #33A551;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    background-color: #33A551;
+    text-decoration: none;
+}
+.submitinput{
+    font-size: 15px;
+    padding:10px 20px; 
+    color: #33A551;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+#error{
+    text-align: center;
+    color: red;
+}
