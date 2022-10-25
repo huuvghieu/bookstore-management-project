@@ -11,7 +11,6 @@ Follow the steps to run this project: <br />
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-•	Run BookStoreManagement(Script).sql in SQL Server (over 2008) Management Studio<br />
 •	Download and install JDK 1.8, Apach Tomcat 8 <br />
 •	Download and install Microsof JDBC Driver 4.2. <br />
 
