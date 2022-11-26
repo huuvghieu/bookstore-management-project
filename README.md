@@ -4,7 +4,7 @@ THE ONLINE MILK TEA PROJECT
 </h1>
 
 ![image](https://user-images.githubusercontent.com/90099306/197791927-7417714e-7559-41c5-a3ca-4797edbc3ef5.png)
-This is a Java web application project which sale milk tea, manage customers and manage milk tea in store. In addition, this project is designed to allow administrator to control the list of milk tea, customers.
+This is a Java web application project which sales milk tea, manage customers and manage milk tea in store. In addition, this project is designed to allow administrator to control the list of milk tea, customers.
 
 ## Technologies
 <p><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java"/> <img src="https://img.shields.io/badge/MVC2-40B5A4?style=for-the-badge" alt="MVC2"/> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache"/><p/>
